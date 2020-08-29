@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/julysfire-scene/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399197780000000
+    },
+    {
+      "path": "scenery/global/scenery/modelLib.BGL",
+      "size": 56,
+      "date": 132431919446908717
+    },
+    {
+      "path": "scenery/world/scenery/objects.bgl",
+      "size": 56,
+      "date": 132431919447128917
+    },
+    {
+      "path": "scenery/world/scenery/REMOVETREES.BGL",
+      "size": 1775,
+      "date": 132431919447214055
+    }
+  ]
+}
