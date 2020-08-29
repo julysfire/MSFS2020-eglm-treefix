@@ -3,7 +3,7 @@
 Discord: julysfire#9465        MSFS2020: blackflame0729
 
 ##### Description
-Fixes all the trees spawning in the airfield in MSFS 2020.   Per satellite imgary imagery, there should not be any trees on the airfield.  This lightweight addon removes the trees.
+Fixes all the trees spawning in the airfield in MSFS 2020.   Per satellite imagery, there should not be any trees on the airfield.  This lightweight addon removes the trees.
 
 #### ---Installation Instructions---
 1. Download the .zip file from Releases (or zip file here)
