@@ -19,4 +19,14 @@ For the Steam edition:
 
 #### Screenshots
 
+Before
+
+![Before](Before.JPG)
+
+After
+
 ![EGLM](EGLM.JPG)	
+
+Google Maps
+
+![Google](GoogleMaps.JPG)
