@@ -8,12 +8,12 @@
     {
       "path": "scenery/world/scenery/objects.bgl",
       "size": 56,
-      "date": 132531698671559541
+      "date": 132750937979598545
     },
     {
-      "path": "scenery/world/scenery/REMOVETREES.BGL",
+      "path": "scenery/world/scenery/removeTrees.bgl",
       "size": 1775,
-      "date": 132531698671729699
+      "date": 132750937979718657
     }
   ]
 }
